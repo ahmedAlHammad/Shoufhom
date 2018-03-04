@@ -2,5 +2,32 @@
 
 .mainMenuButton {
 	margin-top: 10px;
-	border-radius: 5px;	
+	border-radius: 5px;
+	width: 70%;
+}
+
+.mainMenuButtonList {
+	text-align: center;
+}
+
+.tableHead {
+	background-color: #cccccc;
+}
+
+ons-col {
+  border: 1px solid #ccc;
+  background: #fff;
+  overflow: hidden;
+  padding: 4px;
+  color: #999;
+}
+
+.page__content {
+  background-color: #f6f6f6;
+  padding: 8px;
+}
+
+h3 {
+  color: #666;
+  font-size: 17px;
 }
